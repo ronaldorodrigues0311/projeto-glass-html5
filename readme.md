@@ -1,1 +1,1 @@
-Olá, esse projeto é uma prática para a criação de site em HTML5.
+Olá, o projeto tem como objetivo a criação de um site em HTML5.
