@@ -1,1 +1,1 @@
-Olá, esse projeto é um teste de criação de site em HTML5.
+Olá, esse projeto é uma prática para a criação de site em HTML5.
